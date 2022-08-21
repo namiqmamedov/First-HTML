@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+#First{
+
+    background-color: #212529;
+    padding: 1rem 0;       
+}
+
+#First a{
+    font-size: 1.35rem;
+    color: #fff;  
+    padding-left: 10rem;    
+}
+
+#Second{
+    text-align: center;
+    background-color: #277DFD;
+    padding: 6.5rem 0;    
+}
+
+#Second h1 {
+    font-size: 40px;
+    color: #ffffff;   
+}
+
+#Second p{
+    font-size: 20px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+#Second a{
+    color: black;
+    background-color: #f8f9fa;
+    font-size: 20px;
+    padding: 14px 20px;
+    border-radius: 5px;      
+}
+
+.uc{
+    padding-left: 25rem;
+    background-color: white;       
+    padding-top: 10rem;
+}
+
+.uc h2{
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #212529;
+}
+.uc p{
+    font-size: 1.25rem;
+    font-weight: 300;
+    font-family: sans-serif;
+    color: grey;
+    line-height: 1.7rem;
+
+}
+.uc ul {
+    padding-left: 2rem;
+}
+.uc li {
+    font-size: 16px;
+    color: #212529;
+    margin-bottom: 0.5rem;
+    font-family: sans-serif;
+}
+
+
+
